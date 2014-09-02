@@ -17,6 +17,7 @@ Minnal leverages some of the constructs from `Domain Driven Design <http://dddco
 Minnal uses these DDD constructs to auto-generate the APIs. The aggregate root becomes the root resource and the collections in aggregate roots become the sub-resources. The operations in the car domain (like start, stop) are actions that can be performed on the resources via the root resource.
 
 .. code-block:: bash
+
    GET /cars/:id                           -- Get the car identified by :id
    PUT /cars/:id/start                     -- Start the car identified by :id
    PUT /cars/:id/stop                      -- Stop the car identified by :id
