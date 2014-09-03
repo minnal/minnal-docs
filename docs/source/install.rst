@@ -5,7 +5,7 @@ Prerequisites
 * JDK 7 - Minnal has been tested with Sun JDK and OpenJDK
 * `Maven 3 <http://maven.apache.org/download.cgi>`_ 
 
-.. warning::
+.. hint::
    Ensure your **JAVA_HOME is set to JDK** and not the JRE. Minnal requires tools.jar from JDK libraries to be in the classpath.
 
 Downloading the package
