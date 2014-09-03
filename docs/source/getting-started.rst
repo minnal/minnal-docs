@@ -72,7 +72,7 @@ We just created the required model classes for our application. The relationship
 
 .. tip::
 
-   `Domain Driven Design Quickly <http://www.infoq.com/minibooks/domain-driven-design-quickly>`_, a free ebook that explains in detail about identifying the *aggregate roots* in a domain
+   `Domain Driven Design Quickly <http://www.infoq.com/minibooks/domain-driven-design-quickly>`_, a free ebook, explains in detail about identifying the *aggregate roots* in a domain
 
 Domain Modelling
 ~~~~~~~~~~~~~~~~

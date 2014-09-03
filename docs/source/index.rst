@@ -14,6 +14,9 @@ Contents:
    intro
    install
    getting-started
+   release-notes
+   contact
+   faq
 
 
 
