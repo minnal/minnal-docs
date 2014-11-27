@@ -231,7 +231,7 @@ View your APIs
 ~~~~~~~~~~~~~~
 Minnal has support for `Swagger <https://github.com/wordnik/swagger-core/wiki>`_ api documentation. So you can view your api's from `swagger ui <http://petstore.swagger.wordnik.com/>`_. In the swagger ui, type in the url *http://localhost:8080/api-docs* to view the generated APIs
 
-.. figure::  _static/swagger-ui.png
+.. figure::  _static/images/swagger-ui.png
    :align:   center
    :width:   800px
 

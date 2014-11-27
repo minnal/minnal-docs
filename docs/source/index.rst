@@ -14,6 +14,7 @@ Contents:
    intro
    install
    getting-started
+   manual/index
    release-notes
    contact
    faq
